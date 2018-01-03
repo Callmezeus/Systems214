@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileIndex>
+	<word text = "a">
+		<file name = "test">1</file>
+		<file name = "test0a">3</file>
+		<file name = "tokenizer.h">3</file>
+		<file name = "testplan.txt">5</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "access">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "adds">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "addtokens">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "after">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "all">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "allow">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "alphanumeric">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "alphanumerics">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "already">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "an">
+		<file name = "test">1</file>
+		<file name = "test0">1</file>
+	</word>
+	<word text = "and">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">14</file>
+	</word>
+	<word text = "any">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "are">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "argc">
+		<file name = "test">1</file>
+		<file name = "index.c">2</file>
+	</word>
+	<word text = "argv">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">3</file>
+		<file name = "index.c">4</file>
+	</word>
+	<word text = "b">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "boolean">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "bottom">
+		<file name = "test">1</file>
+		<file name = "test2bot">1</file>
+	</word>
+	<word text = "break">
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "buffer">
+		<file name = "test">1</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "by">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "c">
+		<file name = "index.c">1</file>
+		<file name = "Makefile">4</file>
+		<file name = "tokenizer.c">10</file>
+		<file name = "test">224</file>
+	</word>
+	<word text = "called">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "calloc">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "calls">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "case">
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+		<file name = "testplan.txt">7</file>
+	</word>
+	<word text = "catalog">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "ccflags">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "cflags">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "char">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">7</file>
+		<file name = "tokenizer.h">10</file>
+		<file name = "tokenizer.c">12</file>
+	</word>
+	<word text = "checking">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "checks">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "clean">
+		<file name = "test">1</file>
+		<file name = "Makefile">2</file>
+	</word>
+	<word text = "close">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "closedir">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "closes">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "const">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "contents">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "continue">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "corresponding">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">4</file>
+	</word>
+	<word text = "could">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "count">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">4</file>
+		<file name = "tokenizer.c">14</file>
+	</word>
+	<word text = "create">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "created">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "createhashtable">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "createnode">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.c">5</file>
+	</word>
+	<word text = "creates">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "cs">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "ctype">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "curr">
+		<file name = "test">1</file>
+		<file name = "utils.c">18</file>
+		<file name = "tokenizer.c">19</file>
+	</word>
+	<word text = "d">
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+		<file name = "index">3</file>
+	</word>
+	<word text = "default">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "deleted">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "deletetable">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "devicergb">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "digits">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "dir">
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "directories">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "directory">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "testplan.txt">5</file>
+		<file name = "utils.c">7</file>
+	</word>
+	<word text = "directoryname">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">9</file>
+	</word>
+	<word text = "dirent">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "do">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "does">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "doesn">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "doesntexist">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">2</file>
+	</word>
+	<word text = "dt">
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "easy">
+		<file name = "test">1</file>
+		<file name = "test0">1</file>
+	</word>
+	<word text = "either">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "elf">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "else">
+		<file name = "test">1</file>
+		<file name = "utils.c">6</file>
+		<file name = "tokenizer.c">7</file>
+	</word>
+	<word text = "empty">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "en">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "encoding">
+		<file name = "index.c">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "test">2</file>
+	</word>
+	<word text = "endobj">
+		<file name = "test">1</file>
+		<file name = "readme.pdf">3</file>
+	</word>
+	<word text = "enotdir">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "enter">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "eof">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+	</word>
+	<word text = "errno">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "error">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">2</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "errors">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "exist">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "testplan.txt">3</file>
+	</word>
+	<word text = "exists">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "exit">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "expected">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">6</file>
+	</word>
+	<word text = "extgstate">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "f">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "fgetc">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+	</word>
+	<word text = "file">
+		<file name = "testplan.txt">2</file>
+		<file name = "index.c">3</file>
+		<file name = "tokenizer.h">14</file>
+		<file name = "utils.c">14</file>
+		<file name = "tokenizer.c">26</file>
+		<file name = "test">1133</file>
+	</word>
+	<word text = "fileindex">
+		<file name = "index.c">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "test">3</file>
+	</word>
+	<word text = "filename">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "files">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "testplan.txt">3</file>
+	</word>
+	<word text = "filter">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "first">
+		<file name = "test">1</file>
+		<file name = "utils.c">4</file>
+	</word>
+	<word text = "flag">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">6</file>
+	</word>
+	<word text = "flatedecode">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "fname">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+	</word>
+	<word text = "font">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "fopen">
+		<file name = "index">1</file>
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "for">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.c">5</file>
+	</word>
+	<word text = "found">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "fp">
+		<file name = "test">1</file>
+		<file name = "utils.c">4</file>
+	</word>
+	<word text = "fprintf">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "index.c">2</file>
+		<file name = "tokenizer.c">6</file>
+	</word>
+	<word text = "free">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "frees">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "from">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "function">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "fwrite">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "f1">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "f2">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "g">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "gcc">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "getchar">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "ggdb">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "glibc">
+		<file name = "test">1</file>
+		<file name = "index">3</file>
+	</word>
+	<word text = "gmon">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "gnu">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "goes">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "going">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "group">
+		<file name = "test">1</file>
+		<file name = "readme.pdf">2</file>
+	</word>
+	<word text = "gs7">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "gs8">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "h">
+		<file name = "Makefile">1</file>
+		<file name = "index">4</file>
+		<file name = "tokenizer.h">5</file>
+		<file name = "tokenizer.c">7</file>
+		<file name = "utils.c">8</file>
+		<file name = "test">136</file>
+	</word>
+	<word text = "handles">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "hashtable">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+		<file name = "tokenizer.c">7</file>
+		<file name = "tokenizer.h">15</file>
+	</word>
+	<word text = "head">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "utils.c">14</file>
+		<file name = "tokenizer.c">28</file>
+	</word>
+	<word text = "hello">
+		<file name = "test">1</file>
+		<file name = "test0">1</file>
+		<file name = "test1">1</file>
+		<file name = "test2bot">1</file>
+		<file name = "test2top">1</file>
+		<file name = "test0a">3</file>
+	</word>
+	<word text = "helper">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "helps">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "h0">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "i">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">14</file>
+		<file name = "tokenizer.c">30</file>
+	</word>
+	<word text = "if">
+		<file name = "test">1</file>
+		<file name = "index.c">2</file>
+		<file name = "tokenizer.h">3</file>
+		<file name = "utils.c">13</file>
+		<file name = "tokenizer.c">19</file>
+	</word>
+	<word text = "ii">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "imageb">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "imagec">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "imagei">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "in">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "tokenizer.h">7</file>
+	</word>
+	<word text = "include">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">5</file>
+		<file name = "tokenizer.c">8</file>
+		<file name = "utils.c">8</file>
+	</word>
+	<word text = "index">
+		<file name = "index.c">1</file>
+		<file name = "Makefile">6</file>
+		<file name = "testplan.txt">6</file>
+		<file name = "test">92</file>
+	</word>
+	<word text = "input">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">6</file>
+	</word>
+	<word text = "insertnode">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "inserts">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "int">
+		<file name = "test">1</file>
+		<file name = "index.c">2</file>
+		<file name = "utils.c">4</file>
+		<file name = "tokenizer.h">7</file>
+		<file name = "tokenizer.c">12</file>
+	</word>
+	<word text = "into">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "is">
+		<file name = "test">1</file>
+		<file name = "test0">1</file>
+		<file name = "test1">1</file>
+		<file name = "test2bot">1</file>
+		<file name = "test2top">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "test0a">3</file>
+	</word>
+	<word text = "isalnum">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "isalpha">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.c">4</file>
+	</word>
+	<word text = "isdigit">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+	</word>
+	<word text = "isupper">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "it">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "itself">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "k">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "kids">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "lang">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "layer">
+		<file name = "test">1</file>
+		<file name = "test2bot">1</file>
+	</word>
+	<word text = "ld">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "length">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "tokenizer.c">3</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "level">
+		<file name = "test">1</file>
+		<file name = "test2top">1</file>
+	</word>
+	<word text = "libc">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "lib64">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "limit">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">5</file>
+	</word>
+	<word text = "line">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "lines">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "linux">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "list">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+		<file name = "utils.c">11</file>
+	</word>
+	<word text = "loc">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "location">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "long">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "main">
+		<file name = "index">1</file>
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">5</file>
+	</word>
+	<word text = "mainoutputfile">
+		<file name = "test">1</file>
+		<file name = "index.c">4</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "maintable">
+		<file name = "test">1</file>
+		<file name = "index.c">4</file>
+		<file name = "utils.c">4</file>
+		<file name = "tokenizer.c">20</file>
+	</word>
+	<word text = "makefile">
+		<file name = "test">15</file>
+	</word>
+	<word text = "malloc">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+	</word>
+	<word text = "marked">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "markinfo">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "mastertable">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "may">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "mediabox">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "memcpy">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "metadata">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "method">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "methods">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "missing">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "modified">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "multiple">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "mytable">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "mz">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "n">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+		<file name = "index.c">3</file>
+		<file name = "tokenizer.c">14</file>
+		<file name = "utils.c">17</file>
+	</word>
+	<word text = "name">
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "test">567</file>
+	</word>
+	<word text = "names">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "negative">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "nested">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "newly">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "next">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">11</file>
+		<file name = "utils.c">13</file>
+	</word>
+	<word text = "node">
+		<file name = "test">1</file>
+		<file name = "utils.c">8</file>
+		<file name = "tokenizer.h">12</file>
+		<file name = "tokenizer.c">18</file>
+	</word>
+	<word text = "nodes">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "not">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">3</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "null">
+		<file name = "test">1</file>
+		<file name = "utils.c">10</file>
+		<file name = "tokenizer.c">15</file>
+	</word>
+	<word text = "number">
+		<file name = "test">1</file>
+		<file name = "test1">1</file>
+	</word>
+	<word text = "o">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "obj">
+		<file name = "test">1</file>
+		<file name = "readme.pdf">4</file>
+	</word>
+	<word text = "of">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">2</file>
+	</word>
+	<word text = "ok">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "one">
+		<file name = "test">1</file>
+		<file name = "test1">1</file>
+	</word>
+	<word text = "open">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "opendir">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "opening">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "or">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "other">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "our">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">3</file>
+	</word>
+	<word text = "output">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "testplan.txt">12</file>
+	</word>
+	<word text = "outputfile">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "outputs">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "outputtokenlist">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "outputtokens">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "overwrite">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "p">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "page">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "pages">
+		<file name = "test">1</file>
+		<file name = "readme.pdf">2</file>
+	</word>
+	<word text = "parent">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "path">
+		<file name = "test">1</file>
+		<file name = "utils.c">4</file>
+	</word>
+	<word text = "pathname">
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "pdf">
+		<file name = "readme.pdf">2</file>
+		<file name = "test">50</file>
+	</word>
+	<word text = "pointer">
+		<file name = "test">1</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "pointers">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "positive">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "present">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "prev">
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+		<file name = "tokenizer.c">8</file>
+	</word>
+	<word text = "print">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "printf">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "utils.c">4</file>
+	</word>
+	<word text = "prints">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "printtokens">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+	</word>
+	<word text = "proceed">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "procset">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "provided">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "ptr">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">8</file>
+	</word>
+	<word text = "puts">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "pwd">
+		<file name = "test">1</file>
+		<file name = "utils.c">8</file>
+	</word>
+	<word text = "p0">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "q">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "r">
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+		<file name = "index">3</file>
+		<file name = "readme.pdf">11</file>
+	</word>
+	<word text = "read">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">6</file>
+	</word>
+	<word text = "readdir">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "readme">
+		<file name = "test">49</file>
+	</word>
+	<word text = "recursively">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "reg">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "remove">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "repeating">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "resources">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "return">
+		<file name = "test">1</file>
+		<file name = "index.c">3</file>
+		<file name = "utils.c">6</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "returning">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "rf">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "rm">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "s">
+		<file name = "test">1</file>
+		<file name = "readme.pdf">2</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "same">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "separate">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "sh">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "single">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "size">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "tokenizer.c">6</file>
+	</word>
+	<word text = "sizeof">
+		<file name = "test">1</file>
+		<file name = "utils.c">2</file>
+		<file name = "tokenizer.c">4</file>
+	</word>
+	<word text = "snprintf">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "so">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "something">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "sort">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "sorthelper">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "utils.c">3</file>
+	</word>
+	<word text = "sorting">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "specified">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "sprintf">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "start">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "stdio">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "stdlib">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "store">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "stored">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "stores">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "strcmp">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "utils.c">5</file>
+	</word>
+	<word text = "strdup">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "stream">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">6</file>
+	</word>
+	<word text = "string">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "strlen">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">6</file>
+	</word>
+	<word text = "strncmp">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "struct">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "structparents">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "structtreeroot">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "structure">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "switch">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "t">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "index">4</file>
+		<file name = "tokenizer.c">4</file>
+	</word>
+	<word text = "table">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">7</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "tabs">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "tags">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">4</file>
+	</word>
+	<word text = "takes">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "target">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "td">
+		<file name = "test">1</file>
+		<file name = "index">3</file>
+	</word>
+	<word text = "temp">
+		<file name = "test">1</file>
+		<file name = "utils.c">3</file>
+		<file name = "tokenizer.c">31</file>
+	</word>
+	<word text = "temporarily">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "test">
+		<file name = "test0">1</file>
+		<file name = "test1">1</file>
+		<file name = "test2bot">1</file>
+		<file name = "test2top">1</file>
+		<file name = "test0a">3</file>
+		<file name = "test">6</file>
+	</word>
+	<word text = "testcase">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">6</file>
+	</word>
+	<word text = "testplan">
+		<file name = "testplan.txt">1</file>
+		<file name = "test">53</file>
+	</word>
+	<word text = "test0">
+		<file name = "testplan.txt">1</file>
+		<file name = "test">7</file>
+	</word>
+	<word text = "test0a">
+		<file name = "testplan.txt">1</file>
+		<file name = "test">7</file>
+	</word>
+	<word text = "test1">
+		<file name = "testplan.txt">1</file>
+		<file name = "test">7</file>
+	</word>
+	<word text = "test2">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "test2bot">
+		<file name = "test">6</file>
+	</word>
+	<word text = "test2top">
+		<file name = "test">6</file>
+	</word>
+	<word text = "text">
+		<file name = "readme.pdf">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "testplan.txt">2</file>
+		<file name = "test">355</file>
+	</word>
+	<word text = "texts">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "that">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "the">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "tokenizer.h">32</file>
+	</word>
+	<word text = "them">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "then">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">4</file>
+	</word>
+	<word text = "there">
+		<file name = "test">1</file>
+		<file name = "test0a">3</file>
+	</word>
+	<word text = "this">
+		<file name = "test">1</file>
+		<file name = "test0">1</file>
+		<file name = "test1">1</file>
+		<file name = "test2bot">1</file>
+		<file name = "test2top">1</file>
+		<file name = "test0a">3</file>
+	</word>
+	<word text = "through">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">3</file>
+	</word>
+	<word text = "to">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">4</file>
+		<file name = "tokenizer.h">7</file>
+	</word>
+	<word text = "token">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "utils.c">13</file>
+		<file name = "tokenizer.c">19</file>
+	</word>
+	<word text = "tokenize">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">2</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "tokenizer">
+		<file name = "index.c">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "Makefile">2</file>
+		<file name = "test">237</file>
+	</word>
+	<word text = "tokenizes">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "tokens">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+		<file name = "tokenizer.h">8</file>
+	</word>
+	<word text = "tolower">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+	</word>
+	<word text = "too">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "touches">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "transparency">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "traversedirectory">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "utils.c">2</file>
+	</word>
+	<word text = "traverses">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "true">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "txt">
+		<file name = "test">52</file>
+	</word>
+	<word text = "type">
+		<file name = "test">1</file>
+		<file name = "utils.c">1</file>
+		<file name = "readme.pdf">4</file>
+	</word>
+	<word text = "typedef">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "u">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "ultimately">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "unique">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "unistd">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "utils.c">1</file>
+	</word>
+	<word text = "upper">
+		<file name = "test">1</file>
+		<file name = "test2top">1</file>
+	</word>
+	<word text = "us">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "usage">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "uses">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "utf">
+		<file name = "index.c">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "test">2</file>
+	</word>
+	<word text = "utils">
+		<file name = "Makefile">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "test">89</file>
+	</word>
+	<word text = "version">
+		<file name = "index.c">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "test">2</file>
+	</word>
+	<word text = "viewerpreferences">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "void">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">3</file>
+		<file name = "utils.c">3</file>
+		<file name = "tokenizer.h">6</file>
+	</word>
+	<word text = "w">
+		<file name = "index.c">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "wall">
+		<file name = "Makefile">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "were">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "which">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "while">
+		<file name = "test">1</file>
+		<file name = "utils.c">4</file>
+		<file name = "tokenizer.c">11</file>
+	</word>
+	<word text = "wish">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "with">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "testplan.txt">4</file>
+	</word>
+	<word text = "within">
+		<file name = "test">1</file>
+		<file name = "testplan.txt">1</file>
+	</word>
+	<word text = "word">
+		<file name = "tokenizer.h">1</file>
+		<file name = "tokenizer.c">2</file>
+		<file name = "test">709</file>
+	</word>
+	<word text = "write">
+		<file name = "test">1</file>
+		<file name = "tokenizer.h">1</file>
+	</word>
+	<word text = "x">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "xml">
+		<file name = "index.c">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">1</file>
+		<file name = "test">2</file>
+	</word>
+	<word text = "x0">
+		<file name = "test">1</file>
+		<file name = "index">2</file>
+	</word>
+	<word text = "x86">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "y">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "you">
+		<file name = "test">1</file>
+		<file name = "tokenizer.c">1</file>
+		<file name = "tokenizer.h">2</file>
+	</word>
+	<word text = "z">
+		<file name = "index">1</file>
+		<file name = "test">1</file>
+	</word>
+	<word text = "zmo">
+		<file name = "readme.pdf">1</file>
+		<file name = "test">1</file>
+	</word>
+</fileIndex>
